@@ -2,6 +2,8 @@
 node_modules
 /dist
 
+.env
+
 /api-inst-andrea_ale/node_modules
 /api-inst-andrea_ale/.env
 
