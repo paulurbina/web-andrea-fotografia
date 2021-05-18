@@ -232,7 +232,7 @@ export default {
 
 <style scoped>
 .back-image {
-  background-image: url("../assets/contact/banner.jpg");
+  background-image: url("../assets/contact/banner_4.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;

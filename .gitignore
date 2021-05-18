@@ -4,9 +4,6 @@ node_modules
 
 .env
 
-/api-inst-andrea_ale/node_modules
-/api-inst-andrea_ale/.env
-
 
 # local env files
 .env.local
