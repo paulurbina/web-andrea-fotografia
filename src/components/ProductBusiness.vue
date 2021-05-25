@@ -64,11 +64,11 @@ export default {
     imageItems1: [
       {
         src: [
-          require("@/assets/session/paquete1/paquete_1.jpg"),
-          require("@/assets/session/paquete1/paquete_2.jpg"),
-          require("@/assets/session/paquete1/paquete_3.jpg"),
-          require("@/assets/session/paquete1/paquete_4.jpg"),
-          require("@/assets/session/paquete1/paquete_5.jpg"),
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621351142/andreale_web/session/paquete_1/paquete_1.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621351142/andreale_web/session/paquete_1/paquete_2.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621351142/andreale_web/session/paquete_1/paquete_3.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621351142/andreale_web/session/paquete_1/paquete_4.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621351142/andreale_web/session/paquete_1/paquete_5.jpg",
         ],
         title: "Paquete 1",
         description: `

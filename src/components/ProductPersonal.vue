@@ -81,9 +81,9 @@ export default {
     imagePerson1: [
       {
         src: [
-          require("@/assets/session/maternidad/Maternidad_1.jpg"),
-          require("@/assets/session/maternidad/Maternidad_2.jpg"),
-          require("@/assets/session/maternidad/Maternidad_3.jpg"),
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1618932890/andreale_web/session/maternidad/Maternidad_1.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1618932890/andreale_web/session/maternidad/Maternidad_2.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1618932890/andreale_web/session/maternidad/Maternidad_3.jpg"
         ],
         title: "Maternidad",
         description: `
@@ -101,9 +101,9 @@ export default {
       },
       {
         src: [
-          require("@/assets/session/primer_anio/primer_anio_1.jpg"),
-          require("@/assets/session/primer_anio/primer_anio_2.jpg"),
-          require("@/assets/session/primer_anio/primer_anio_3.jpg"),
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350578/andreale_web/session/primer_anio/primer_anio_1.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350578/andreale_web/session/primer_anio/primer_anio_2.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350578/andreale_web/session/primer_anio/primer_anio_3.jpg",
         ],
         title: "Primer Año",
         description: `
@@ -124,9 +124,9 @@ export default {
     imagePerson2: [
       {
         src: [
-          require("@/assets/session/smash_cake/smash_cake_1.jpg"),
-          require("@/assets/session/smash_cake/smash_cake_2.jpg"),
-          require("@/assets/session/smash_cake/smash_cake_3.jpg"),
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350669/andreale_web/session/smash_cake/smash_cake_1.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350669/andreale_web/session/smash_cake/smash_cake_2.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350670/andreale_web/session/smash_cake/smash_cake_3.jpg",
         ],
         title: "Smash Cake",
         description: `
@@ -144,9 +144,9 @@ export default {
       },
       {
         src: [
-          require("@/assets/session/familia/familia_1.jpg"),
-          require("@/assets/session/familia/familia_2.jpg"),
-          require("@/assets/session/familia/familia_3.jpg"),
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350728/andreale_web/session/familia/familia_1.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350728/andreale_web/session/familia/familia_2.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350728/andreale_web/session/familia/familia_3.jpg",
         ],
         title: "Familia",
         description: `
@@ -157,7 +157,7 @@ export default {
           Se entregan 10 fotos <br>
           editadas (en digital) <br>
           <br>
-          s/. 230.00
+          s/. 210.00
         `,
         alt: "Familia",
         time: 5000,
@@ -168,9 +168,9 @@ export default {
     imagePerson3: [
       {
         src: [
-          require("@/assets/session/portafolio/portafolio_1.jpg"),
-          require("@/assets/session/portafolio/portafolio_2.jpg"),
-          require("@/assets/session/portafolio/portafolio_3.jpg"),
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350797/andreale_web/session/portafolio/portafolio_1.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350797/andreale_web/session/portafolio/portafolio_2.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350797/andreale_web/session/portafolio/portafolio_3.jpg",
         ],
         title: "Portafolio",
         description: `
@@ -181,7 +181,7 @@ export default {
         Se entregan 5 fotos <br>
         editadas (en digital) <br>
         <br>
-        s/. 50.00
+        s/. 60.00
         `,
         alt: "Portafolio",
         time: 5000,
@@ -189,11 +189,11 @@ export default {
       },
       {
         src: [
-          require("@/assets/session/eventos_exterior/eventos_exterior_1.jpg"),
-          require("@/assets/session/eventos_exterior/eventos_exterior_2.jpg"),
-          require("@/assets/session/eventos_exterior/eventos_exterior_3.jpg"),
-          require("@/assets/session/eventos_exterior/eventos_exterior_4.jpg"),
-          require("@/assets/session/eventos_exterior/eventos_exterior_5.jpg"),
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350851/andreale_web/session/eventos_exterior/eventos_exterior_1.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350851/andreale_web/session/eventos_exterior/eventos_exterior_2.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350851/andreale_web/session/eventos_exterior/eventos_exterior_3.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350852/andreale_web/session/eventos_exterior/eventos_exterior_4.jpg",
+          "https://res.cloudinary.com/dxbxsfubt/image/upload/v1621350852/andreale_web/session/eventos_exterior/eventos_exterior_5.jpg",
         ],
         title: "Eventos exterior",
         description: `
